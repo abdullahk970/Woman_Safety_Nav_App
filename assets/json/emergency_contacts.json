@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Police",
+    "phone": "15"
+  },
+  {
+    "id": 2,
+    "name": "Ambulance",
+    "phone": "1122"
+  },
+  {
+    "id": 3,
+    "name": "Trusted Contact",
+    "phone": "+92 300 1234567"
+  }
+]

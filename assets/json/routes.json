@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "from": "Home",
+    "to": "University",
+    "distance": "3.2 km",
+    "time": "10 mins",
+    "safetyLevel": "High"
+  },
+  {
+    "id": 2,
+    "from": "Office",
+    "to": "Bus Stop",
+    "distance": "1.5 km",
+    "time": "6 mins",
+    "safetyLevel": "Medium"
+  },
+  {
+    "id": 3,
+    "from": "Market",
+    "to": "Home",
+    "distance": "2.8 km",
+    "time": "9 mins",
+    "safetyLevel": "Low"
+  }
+]

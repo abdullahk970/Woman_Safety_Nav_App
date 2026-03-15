@@ -1,0 +1,10 @@
+[
+  {
+    "email": "admin@womenSafety.com",
+    "password": "123456"
+  },
+  {
+    "email": "user@test.com",
+    "password": "password"
+  }
+]

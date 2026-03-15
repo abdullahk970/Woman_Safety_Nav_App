@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Central Police Station",
+    "type": "Police",
+    "distance": "0.8 km",
+    "address": "Main Road, City Center",
+    "latitude": 24.8607,
+    "longitude": 67.0011
+  },
+  {
+    "id": 2,
+    "name": "City General Hospital",
+    "type": "Hospital",
+    "distance": "1.4 km",
+    "address": "Hospital Street, Block B",
+    "latitude": 24.8607,
+    "longitude": 67.0011
+  },
+  {
+    "id": 3,
+    "name": "Women Help Center",
+    "type": "Help Center",
+    "distance": "2.1 km",
+    "address": "Community Plaza, Sector 5",
+    "latitude": 24.8607,
+    "longitude": 67.0011
+  }
+]
